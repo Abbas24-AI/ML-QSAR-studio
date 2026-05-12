@@ -1,0 +1,17 @@
+pyqt6
+joblib
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+optuna
+scikit-learn
+xgboost
+lightgbm
+chembl_webresource_client
+datamol
+molfeat
+rdkit-pypi
+mapie
+nbformat
