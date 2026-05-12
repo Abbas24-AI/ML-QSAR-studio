@@ -1,4 +1,4 @@
-# AutoML-QSAR PyQt6 GUI (wired to your pipeline)
+# AutoML-QSAR GUI (Automated Struture Activity Modeling)
 
 This project turns your AutoML-QSAR notebook/pipeline into a desktop GUI with:
 - Project setup (output directory, ChEMBL ID, activity type)
